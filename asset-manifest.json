@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/frb-sandbox/static/css/main.073c9b0a.css",
-    "main.js": "/frb-sandbox/static/js/main.79ca7e58.js",
-    "static/js/787.d121cd3d.chunk.js": "/frb-sandbox/static/js/787.d121cd3d.chunk.js",
-    "static/media/logo.svg": "/frb-sandbox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/frb-sandbox/static/css/main.9d2c4429.css",
+    "main.js": "/frb-sandbox/static/js/main.02dbb8dd.js",
     "index.html": "/frb-sandbox/index.html",
-    "main.073c9b0a.css.map": "/frb-sandbox/static/css/main.073c9b0a.css.map",
-    "main.79ca7e58.js.map": "/frb-sandbox/static/js/main.79ca7e58.js.map",
-    "787.d121cd3d.chunk.js.map": "/frb-sandbox/static/js/787.d121cd3d.chunk.js.map"
+    "main.9d2c4429.css.map": "/frb-sandbox/static/css/main.9d2c4429.css.map",
+    "main.02dbb8dd.js.map": "/frb-sandbox/static/js/main.02dbb8dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.79ca7e58.js"
+    "static/css/main.9d2c4429.css",
+    "static/js/main.02dbb8dd.js"
   ]
 }
