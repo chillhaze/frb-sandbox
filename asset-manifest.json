@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/frb-sandbox/static/css/main.9d2c4429.css",
-    "main.js": "/frb-sandbox/static/js/main.02dbb8dd.js",
+    "main.js": "/frb-sandbox/static/js/main.5fd865ba.js",
     "index.html": "/frb-sandbox/index.html",
     "main.9d2c4429.css.map": "/frb-sandbox/static/css/main.9d2c4429.css.map",
-    "main.02dbb8dd.js.map": "/frb-sandbox/static/js/main.02dbb8dd.js.map"
+    "main.5fd865ba.js.map": "/frb-sandbox/static/js/main.5fd865ba.js.map"
   },
   "entrypoints": [
     "static/css/main.9d2c4429.css",
-    "static/js/main.02dbb8dd.js"
+    "static/js/main.5fd865ba.js"
   ]
 }
