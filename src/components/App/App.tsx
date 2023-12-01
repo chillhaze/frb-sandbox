@@ -31,7 +31,7 @@ export const App: React.FC = () => {
 
           <Checkbox
             mt="md"
-            label="I agree to sell my privacy"
+            label="I agree to store my private data"
             {...form.getInputProps('termsOfService', { type: 'checkbox' })}
           />
 
